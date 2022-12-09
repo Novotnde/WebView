@@ -1,0 +1,12 @@
+/Users/denisanovotna/RiderProjects/App2/App2/App2/bin/Debug/netstandard2.0/App2.deps.json
+/Users/denisanovotna/RiderProjects/App2/App2/App2/bin/Debug/netstandard2.0/App2.dll
+/Users/denisanovotna/RiderProjects/App2/App2/App2/bin/Debug/netstandard2.0/App2.pdb
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.csproj.AssemblyReference.cache
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.AssemblyInfoInputs.cache
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.AssemblyInfo.cs
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.csproj.CoreCompileInputs.cache
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.dll
+/Users/denisanovotna/RiderProjects/App2/App2/App2/obj/Debug/netstandard2.0/App2.pdb
